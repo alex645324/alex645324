@@ -1,7 +1,8 @@
-## Hi there 👋
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## Hey, I’m Alieel.
+I’m the founder of BAS (Being Actually Social) — a social platform built around who you are and how you feel.
+
+Right now, I’m teaching myself app development and sharpening my UI skills to create a better experience for my users.
+
 <!--
 **alex645324/alex645324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
