@@ -1,5 +1,5 @@
 Experience:
-  - Software intern: @Pickups Technologies [https://www.techstars.com/newsroom/techstars-equitech]
+  - Software intern: @Pickups Technologies [https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class]
   - Lead software developer: @Humans Deliver [https://jobs.techstars.com/companies/humans-deliver]
   - Full-Stack Developer / Consultant: @agapi.kids [https://agapi.kids/]
 
