@@ -1,8 +1,12 @@
-## Hey, I’m Alieel.
-I’m the founder of BAS (Being Actually Social) — a social platform built around who you are and how you feel.
+Experience:
+  - Software intern: @Pickups Technologies [https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class]
+  - Lead software developer: @Humans Deliver [https://jobs.techstars.com/companies/humans-deliver]
+  - Full-Stack Developer / Consultant: @agapi.kids [agapi.kids]
 
-Right now, I'm sharpening my UI skills to create a better experience for my users.
-
+About me: 
+- 🔭 I'm currently working on a social startup that challenges the conventional design of social platforms. 
+- 🌱 I'm currently learning about how quantum mechanical algorithms work so that I can create my own and use them on classical computers.
+- 📫 How to reach me: alieelswork@gmail.com
 <!--
 **alex645324/alex645324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
