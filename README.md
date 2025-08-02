@@ -1,7 +1,9 @@
 Experience:
   - Software intern: @Pickups Technologies [https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class]
   - Lead software developer: @Humans Deliver [https://jobs.techstars.com/companies/humans-deliver]
+      - Employer's email: Gabriel <gc@vecinohq.com>
   - Full-Stack Developer / Consultant: @agapi.kids [https://agapi.kids/]
+      - Employer's email: Nathania <nathania.agapi@gmail.com>
 
 About me: 
 - 🔭 I'm currently working on a social startup that challenges the conventional design of social platforms. 
