@@ -3,7 +3,7 @@ Experience:
   - Lead software developer: @Humans Deliver [https://jobs.techstars.com/companies/humans-deliver]
       - Employer's email: Gabriel <gc@vecinohq.com>
   - Full-Stack Developer / Consultant: @agapi.kids [https://steinhardt.nyu.edu/people/niobe-way]
-      - Employer's email: Nathania <niobe.way@nyu.edu>
+      - Employer's email: Niobe Way <niobe.way@nyu.edu>
 
 About me: 
 - 🔭 I'm currently working on a social startup that challenges the conventional design of social platforms. 
