@@ -5,9 +5,9 @@ Experience:
   - Full-Stack Developer / Consultant: @agapi.kids [https://steinhardt.nyu.edu/people/niobe-way]
       - Employer's email: Niobe Way <niobe.way@nyu.edu>
 
-Cool Projects: 
-- 🔭 < project 1 > 
-- 🌱 < project 2 > 
+Cool Projects:
+- 🔭 Currently creating a programming language that reads like English and where every part, from the code to the terminal error, is a language that my little sister can understand, with no added complexity but simplicity as the foundation.
+- 🌱 The current framework for social media is fundamentally flawed; I'm building a new social network startup to correct this from the ground up.
 - 📫 How to reach me: alieelswork@gmail.com
 <!--
 **alex645324/alex645324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
