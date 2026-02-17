@@ -1,6 +1,7 @@
 <div>
     <img src="github-snake.svg">
 </div>
+
 Experience:
   - Software intern: @Pickups Technologies [https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class]
   - Lead software developer: @Humans Deliver [https://jobs.techstars.com/companies/humans-deliver]
