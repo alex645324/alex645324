@@ -41,7 +41,7 @@ It reveals how electrification evolves across real companies and physical system
 
 
 **uS:)**
-(https://github.com/alex645324/uS-app)
+https://github.com/alex645324/uS-app
 
 A new foundation for digital connection.  
 Designed to replace noise with intention.
