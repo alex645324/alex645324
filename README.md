@@ -2,7 +2,6 @@
 
 We build systems that make the invisible visible and the complex usable.
 
----
 
 ## Who We Are
 
@@ -12,7 +11,6 @@ We have interned at startups, built production applications, and created systems
 
 We are builders formed through execution.
 
----
 
 ## Experience
 
@@ -30,7 +28,6 @@ https://steinhardt.nyu.edu/people/niobe-way
 We built full-stack systems supporting live research and operational platforms.  
 Employer: Niobe Way <niobe.way@nyu.edu>
 
----
 
 ## Systems We Are Building
 
@@ -40,21 +37,18 @@ https://www.electrificationindex.com
 A system that makes infrastructure visible.  
 It reveals how electrification evolves across real companies and physical systems.
 
----
 
 **uS:)**
 
 A new foundation for digital connection.  
 Designed to replace noise with intention.
 
----
 
 **SWAT-AI**
 
 An operational layer for human and AI coordination.  
 It aligns communication, decisions, and execution into one system.
 
----
 
 ## Current Focus
 
@@ -62,7 +56,6 @@ We are actively building and competing at MIT, Yale, Cornell, and Penn State.
 
 Our work is defined by execution.
 
----
 
 ## Contact
 
