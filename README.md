@@ -1,4 +1,4 @@
-# Student Builders
+## Student Builders
 
 We build systems that make the invisible visible and the complex usable.
 
