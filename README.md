@@ -49,6 +49,7 @@ Designed to replace noise with intention.
 
 **SWAT-AI**
 https://github.com/alex645324/SWAT-AI
+
 An operational layer for human and AI coordination.  
 It aligns communication, decisions, and execution into one system.
 
