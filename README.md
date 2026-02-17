@@ -13,16 +13,16 @@ We are builders formed through execution.
 
 ## Experience
 
-**Pickups Technologies — Software Intern**  
+**Pickups Technologies — Software Interns (Harsh,Alieel,Roddy,Keval)**  
 https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class  
 We worked on production infrastructure and scalable systems.
 
-**Humans Deliver — Lead Software Developer**  
+**Humans Deliver — Lead Software Developers (Harsh,Keval,Roddy,Alieel)**  
 https://jobs.techstars.com/companies/humans-deliver  
 We led development of full-stack systems deployed to real users.  
 Employer: Gabriel <gc@vecinohq.com>
 
-**agapi.kids (NYU) — Full-Stack Developer / Consultant**  
+**agapi.kids (NYU) — Full-Stack Developer / Consultant (Alieel)**  
 https://steinhardt.nyu.edu/people/niobe-way  
 We built full-stack systems supporting live research and operational platforms.  
 Employer: Niobe Way <niobe.way@nyu.edu>
