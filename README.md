@@ -33,21 +33,21 @@ Employer: Niobe Way <niobe.way@nyu.edu>
 
 ## Systems We Are Building
 
-**Electrification Index:**  
+**Electrification Index**  
 https://www.electrificationindex.com  
 
 A system that makes infrastructure visible.  
 It reveals how electrification evolves across real companies and physical systems.
 
 
-**uS:):**
-
+**uS:)**
+https://github.com/alex645324/uS-app 
 A new foundation for digital connection.  
 Designed to replace noise with intention.
 
 
-**SWAT-AI:**
-
+**SWAT-AI**
+https://github.com/alex645324/SWAT-AI
 An operational layer for human and AI coordination.  
 It aligns communication, decisions, and execution into one system.
 
