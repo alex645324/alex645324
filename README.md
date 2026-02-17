@@ -56,7 +56,6 @@ It aligns communication, decisions, and execution into one system.
 ## Current Focus
 
 We are actively building and competing at MIT, Yale, Cornell, and Penn State.
-
 Our work is defined by execution.
 
 
