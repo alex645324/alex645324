@@ -1,6 +1,4 @@
-<div>
-    <img src="github-snake.svg">
-</div>
+
 
 Experience:
   - Software intern: @Pickups Technologies [https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class]
@@ -15,6 +13,9 @@ Cool Projects:
 - 📫 How to reach me: alieelswork@gmail.com
 <!--
 **alex645324/alex645324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <img src="github-snake.svg">
+</div>
 
 Here are some ideas to get you started:
 
