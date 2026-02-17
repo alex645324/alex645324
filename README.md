@@ -12,6 +12,7 @@ We have interned at startups, built production applications, and created systems
 We are builders formed through execution.
 
 
+
 ## Experience
 
 **Pickups Technologies — Software Intern**  
@@ -27,6 +28,7 @@ Employer: Gabriel <gc@vecinohq.com>
 https://steinhardt.nyu.edu/people/niobe-way  
 We built full-stack systems supporting live research and operational platforms.  
 Employer: Niobe Way <niobe.way@nyu.edu>
+
 
 
 ## Systems We Are Building
@@ -50,11 +52,13 @@ An operational layer for human and AI coordination.
 It aligns communication, decisions, and execution into one system.
 
 
+
 ## Current Focus
 
 We are actively building and competing at MIT, Yale, Cornell, and Penn State.
 
 Our work is defined by execution.
+
 
 
 ## Contact
