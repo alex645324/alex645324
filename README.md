@@ -1,4 +1,72 @@
+# Student Builders
 
+We build systems that make the invisible visible and the complex usable.
+
+---
+
+## Who We Are
+
+We design and deploy software, infrastructure, and intelligent systems from first principles.
+
+We have interned at startups, built production applications, and created systems that operate in real environments.
+
+We are builders formed through execution.
+
+---
+
+## Experience
+
+**Pickups Technologies — Software Intern**  
+https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class  
+We worked on production infrastructure and scalable systems.
+
+**Humans Deliver — Lead Software Developer**  
+https://jobs.techstars.com/companies/humans-deliver  
+We led development of full-stack systems deployed to real users.  
+Employer: Gabriel <gc@vecinohq.com>
+
+**agapi.kids (NYU) — Full-Stack Developer / Consultant**  
+https://steinhardt.nyu.edu/people/niobe-way  
+We built full-stack systems supporting live research and operational platforms.  
+Employer: Niobe Way <niobe.way@nyu.edu>
+
+---
+
+## Systems We Are Building
+
+**Electrification Index**  
+https://www.electrificationindex.com  
+
+A system that makes infrastructure visible.  
+It reveals how electrification evolves across real companies and physical systems.
+
+---
+
+**uS:)**
+
+A new foundation for digital connection.  
+Designed to replace noise with intention.
+
+---
+
+**SWAT-AI**
+
+An operational layer for human and AI coordination.  
+It aligns communication, decisions, and execution into one system.
+
+---
+
+## Current Focus
+
+We are actively building and competing at MIT, Yale, Cornell, and Penn State.
+
+Our work is defined by execution.
+
+---
+
+## Contact
+
+alieelswork@gmail.com
 
 <!--
 Experience:
