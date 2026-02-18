@@ -30,7 +30,7 @@ Competed solo against teams of 5 participants.
 ## Systems We Are Building
 
 **Electrification Index**  
-https://www.electrificationindex.com  
+https://github.com/alex645324/ELECTRIFICATION-INDEX
 
 Modern life runs on electricity.
 The problem: stress in the power system is invisible until it’s too late.
