@@ -62,6 +62,8 @@ No wasted paths.
 
 Simple: one mission, shared intelligence, faster execution.
 
+##Contract 
+📫 How to reach us: alieelswork@gmail.com
 <!--
 Experience:
   - Software intern: @Pickups Technologies [https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class]
