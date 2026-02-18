@@ -7,7 +7,7 @@ We build what ought to exist. And we don’t ask for permission.
 # Experience
 
 **Pickups Technologies — Software Interns (Harsh, Alieel, Roddy, Keval)**
-[https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class](https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class)
+https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class
 Built core infrastructure behind a real product.
 Engine room work. Not surface.
 
