@@ -2,15 +2,6 @@
 
 We build systems that make the invisible visible and the complex usable.
 
-
-## Who We Are
-
-We design and deploy software, infrastructure, and intelligent systems from first principles.
-We have interned at startups, built production applications, and created systems that operate in real environments.
-We are builders formed through execution.
-
-
-
 ## Experience
 
 **Pickups Technologies — Software Interns (Harsh, Alieel, Roddy, Keval)**  
