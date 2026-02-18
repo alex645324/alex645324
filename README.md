@@ -1,6 +1,6 @@
 ## Student Builders
 
-We build systems that make the invisible visible and the complex usable.
+We build what ought to exist.
 
 ## Experience
 
