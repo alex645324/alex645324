@@ -1,4 +1,4 @@
-I need you use a bit more simpler works for this Read me GitHub file so that anyone can understand with analogies for the What we are building section so that they know what we are doing also check memory for context on the projects: ## Student Builders
+## Student Builders
 
 We build what ought to exist. And we don’t ask for permission.
 
