@@ -1,6 +1,6 @@
 ## Student Builders
 
-We build what ought to exist.
+We build what ought to exist. And we don’t ask for permission.
 
 ## Experience
 
