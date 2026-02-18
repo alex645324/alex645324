@@ -1,91 +1,66 @@
-# Student Builders
+I need you use a bit more simpler works for this Read me GitHub file so that anyone can understand with analogies for the What we are building section so that they know what we are doing also check memory for context on the projects: ## Student Builders
 
 We build what ought to exist. And we don’t ask for permission.
 
----
+## Experience
 
-# Experience
-
-**Pickups Technologies — Software Interns (Harsh, Alieel, Roddy, Keval)**
-[https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class]
-
+**Pickups Technologies — Software Interns (Harsh, Alieel, Roddy, Keval)**  
+https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class  
 Built core infrastructure behind a real product.
 Engine room work. Not surface.
 
-**Humans Deliver — Software Developers (Harsh, Keval, Roddy, Alieel)**
-[https://jobs.techstars.com/companies/humans-deliver](https://jobs.techstars.com/companies/humans-deliver)
+**Humans Deliver — Software Developers (Harsh, Keval, Roddy, Alieel)**  
+https://jobs.techstars.com/companies/humans-deliver  
 Built and shipped full systems used by real users.
 End-to-end.
-Employer: Gabriel [gc@vecinohq.com](mailto:gc@vecinohq.com)
+Employer: Gabriel <gc@vecinohq.com>
 
-**agapi.kids (NYU) — Full-Stack Developer / Consultant (Alieel)**
-[https://steinhardt.nyu.edu/people/niobe-way](https://steinhardt.nyu.edu/people/niobe-way)
-Built software supporting live research and operations.
-Employer: Niobe Way [niobe.way@nyu.edu](mailto:niobe.way@nyu.edu)
+**agapi.kids (NYU) — Full-Stack Developer / Consultant (Alieel)**  
+https://steinhardt.nyu.edu/people/niobe-way  
+Built software supporting live research and operations. 
+Employer: Niobe Way <niobe.way@nyu.edu>
 
-**Capture-the-Flag (TryHackMe) — Ranked #1 Globally (Harsh)**
-[https://tryhackme.com/room/lafbctf2026-advanced?utm](https://tryhackme.com/room/lafbctf2026-advanced?utm)
+**Capture-the-Flag (Tryhackme) — Ranked #1 Globally (Harsh)**  
+https://tryhackme.com/room/lafbctf2026-advanced?utm
 
-Ranked #1 worldwide out of 10,000+ participants.
-Solved security problems solo, under pressure.
+Harsh Ranked #1 in the world out of over 10,000 participants in a Capture-the-Flag cybersecurity tournament.  
+Competed solo against teams of 5 participants.
 
----
 
 ## Systems We Are Building
 
-**Electrification Index**
-
-[https://www.electrificationindex.com](https://www.electrificationindex.com)
+**Electrification Index**  
+https://www.electrificationindex.com  
 
 Modern life runs on electricity.
-
 The problem: stress in the power system is invisible until it’s too late.
-
 We built a health monitor for electrification.
 It reveals early strain — delays, congestion, equipment pressure — before failure.
 
-Simple:
-Make hidden infrastructure stress visible.
+Simple:Make hidden infrastructure stress visible.
 
 
 **uS:)**
-
-[https://github.com/alex645324/uS-app](https://github.com/alex645324/uS-app)
+https://github.com/alex645324/uS-app
 
 A new medium for online connection.
-
 Built at the intersection of images and text.
-
 Not a feed.
 Not noise.
 
-Simple:
-Connection without performance.
+Simple: Connection without performance.
 
 
 **SWAT-AI**
+https://github.com/alex645324/SWAT-AI
 
-[https://github.com/alex645324/SWAT-AI](https://github.com/alex645324/SWAT-AI)
+A team of AI agents working on the same task.
+As one agent discovers something, it shares it in real time.
+The others adjust immediately.
+No repeating mistakes.
+No wasted paths.
 
-Intelligence should coordinate.
-
-SWAT-AI connects AI systems and humans into one operating layer.
-Shared context. Shared decisions. Faster execution.
-
-Simple:
-Turn isolated intelligence into a team.
-
-
-## Current Focus
-
-We are actively building and competing at MIT, Yale, Cornell, and Penn State.
-Our work is defined by execution.
-
-
-
-## Contact
-
-alieelswork@gmail.com
+Simple: one mission, shared intelligence, faster execution.
 
 <!--
 Experience:
