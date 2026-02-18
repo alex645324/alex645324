@@ -28,7 +28,7 @@ We built full-stack systems supporting live research and operational platforms.
 Employer: Niobe Way <niobe.way@nyu.edu>
 
 **Capture-the-Flag (Hackabox) — Ranked #1 Globally (Harsh)**
-https://tryhackme.com/room/lafbctf2026-advanced?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy
+https://tryhackme.com/room/lafbctf2026-advanced?utm_
 • Ranked #1 in the world in a Hackabox Capture-the-Flag cybersecurity tournament.
 • Competed solo against teams of 5 participants, demonstrating independent problem-solving under competitive conditions.
 
