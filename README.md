@@ -37,7 +37,7 @@ The problem: stress in the power system is invisible until it’s too late.
 We built a health monitor for electrification.
 It reveals early strain — delays, congestion, equipment pressure — before failure.
 
-Simple:Make hidden infrastructure stress visible.
+Simple: Make hidden infrastructure stress visible.
 
 
 **uS:)**
