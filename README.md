@@ -4,20 +4,21 @@ We build what ought to exist. And we don’t ask for permission.
 
 ## Experience
 
-**Pickups Technologies — Software Interns (Harsh, Alieel, Roddy, Keval)**  
+**Pickups Technologies — Software Interns (Alieel)**  
 https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-class  
-Built core infrastructure behind a real product.
-Engine room work. Not surface.
+Interned at Pickups Technologies, a hyperlocal supply chain company in the Techstars Equitech 2023 cohort. 
+Built internal tools to run day-to-day package operations.
 
-**Humans Deliver — Software Developers (Harsh, Keval, Roddy, Alieel)**  
+**Humans Deliver — Software Developers (Harsh, Alieel)**  
 https://jobs.techstars.com/companies/humans-deliver  
-Built and shipped full systems used by real users.
-End-to-end.
+Worked as a software developer at Humans Deliver. Built and shipped full systems used by real users.
 Employer: Gabriel <gc@vecinohq.com>
 
 **agapi.kids (NYU) — Full-Stack Developer / Consultant (Alieel)**  
 https://steinhardt.nyu.edu/people/niobe-way  
-Built software supporting live research and operations. 
+Worked as a researcher and consultant for agapi.kids, 
+a research initiative at NYU focused on human connection using AI. 
+Built systems supporting live research and operations.
 Employer: Niobe Way <niobe.way@nyu.edu>
 
 **Capture-the-Flag (Tryhackme) — Ranked #1 Globally (Harsh)**  
