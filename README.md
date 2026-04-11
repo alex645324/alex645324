@@ -1,6 +1,3 @@
-## Student Builder
-
-We build what ought to exist. And we don’t ask for permission.
 
 ## Experience
 
