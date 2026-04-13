@@ -6,7 +6,7 @@ https://www.techstars.com/newsroom/techstars-equitech-in-baltimore-names-2023-cl
 Interned at Pickups Technologies, a hyperlocal supply chain company in the Techstars Equitech 2023 cohort. 
 Built internal tools to run day-to-day package operations.
 
-**Humans Deliver — Software Developers**  
+**Humans Deliver — Software Developer**  
 https://jobs.techstars.com/companies/humans-deliver  
 Worked as a software developer at Humans Deliver. Built and shipped full systems used by real users.
 Employer: Gabriel <gc@vecinohq.com>
