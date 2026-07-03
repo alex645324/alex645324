@@ -44,11 +44,14 @@ Simple: Data that sorts itself, and shows you where things are headed.
 **whomatters**
 https://github.com/alex645324/WHOMATTERS_
 
-A new way to be close online.
-Just you and the people who matter — no feed, no followers, no crowd.
-Not a feed. Not noise.
+Every app grows one big room and packs more people in. That's why they all end up lonely —
+the second there's a crowd watching, you stop talking to your friend and start performing for everyone.
+BeReal and the rest just repainted that room. Same crowd, new paint.
+whomatters does the opposite: it never grows the room. It makes a new tiny one for every 2 or 3 people who matter.
+A million private worlds instead of one giant feed. No audience to perform for, because no one else is in there.
+The idea: you don't scale closeness by making the room bigger. You keep it small and make more rooms.
 
-Simple: Connection without performance.
+Simple: A million tiny rooms, not one giant feed.
 
 
 **SWAT-AI**
@@ -75,6 +78,7 @@ Alone each sign looks tiny. Together they show pressure building.
 Every month it turns all of it into one simple number.
 
 Simple: See grid stress before it breaks.
+
 
 
 
