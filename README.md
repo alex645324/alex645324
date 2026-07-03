@@ -1,4 +1,3 @@
-
 ## Experience
 
 **Pickups Technologies — Software Interns**  
@@ -25,26 +24,29 @@ Ranked #1 in the world out of over 10,000 participants in a Capture-the-Flag cyb
 Competed solo against teams of 5 participants.
 
 
-## building  
+## building
 
-**Electrification Index**  
-https://www.electrificationindex.com
+**Emergence**
+https://github.com/alex645324/EMERGENCE_DATA
 
-Modern life runs on electricity.
-The problem: stress in the power system is invisible until it’s too late.
-We built a health monitor for electrification.
-It reveals early strain — delays, congestion, equipment pressure — before failure.
+Most software puts data in a labeled box and goes looking for it later.
+This does the opposite.
+You drop a new thing in, the whole structure shifts to fit it,
+and the answer is just *where it lands*.
+I tested it on real infrastructure projects: feed in a project's first few moves
+and watch where it settles next to the ones that came before —
+that tells you if it's headed for a quiet build or a fight.
+Out of 11, it called 8 right.
 
-Simple: Make hidden infrastructure stress visible.
+Simple: Data that sorts itself, and shows you where things are headed.
 
 
-**uS:)**
-https://github.com/alex645324/uS-app
+**whomatters**
+https://github.com/alex645324/WHOMATTERS_
 
-A new medium for online connection.
-Built at the intersection of images and text.
-Not a feed.
-Not noise.
+A new way to be close online.
+Just you and the people who matter — no feed, no followers, no crowd.
+Not a feed. Not noise.
 
 Simple: Connection without performance.
 
@@ -52,13 +54,28 @@ Simple: Connection without performance.
 **SWAT-AI**
 https://github.com/alex645324/SWAT-AI
 
-A team of AI agents working on the same task.
-As one agent discovers something, it shares it in real time.
-The others adjust immediately.
-No repeating mistakes.
-No wasted paths.
+One AI walks into a hard problem alone and thinks step by step for hours.
+This sends in a whole team instead.
+The agents explore different paths at the same time,
+instantly share what doesn't work, and pile onto what does.
+No repeating dead ends. No wasted paths.
+In our tests it cracked a challenge top human hackers and normal AI models couldn't —
+because it refused to think alone.
 
-Simple: one mission, shared intelligence, faster execution.
+Simple: One mission, one shared brain, way faster.
+
+
+**Electrification Index**
+https://www.electrificationindex.com
+
+It watches the electric grid like a doctor watches a heartbeat.
+It doesn't wait for a blackout — it catches the small strains early:
+equipment taking longer to show up, projects slipping, the grid getting crowded.
+Alone each sign looks tiny. Together they show pressure building.
+Every month it turns all of it into one simple number.
+
+Simple: See grid stress before it breaks.
+
 
 
 📫 How to reach me: alieelswork@gmail.com
