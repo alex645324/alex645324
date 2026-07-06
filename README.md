@@ -42,7 +42,7 @@ Simple: Data that sorts itself, and shows you where things are headed.
 
 
 **whomatters**
-https://github.com/alex645324/WHOMATTERS_
+https://github.com/alex645324/WHOMATTERS
 
 Every app grows one big room and packs more people in. That's why they all end up lonely —
 the second there's a crowd watching, you stop talking to your friend and start performing for everyone.
